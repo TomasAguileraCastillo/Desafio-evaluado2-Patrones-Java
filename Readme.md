@@ -45,19 +45,19 @@ Ejercicio 2 - Patrones anidados
 
 Patrón 1
 
- ![patron1.png](patron1.png)
+ ![patron1.png](imagenes del desafio/patron1.png)
 
 Patrón 2
 
- ![img2.png](img2.png)
+ ![img2.png](imagenes del desafio/img2.png)
 
 Patrón 3
 
-![img.png](img.png)
+![img.png](imagenes del desafio/img.png)
 
 Patrón 4
 
-![img_1.png](img_1.png)
+![img_1.png](imagenes del desafio/img_1.png)
 
 
 
@@ -68,3 +68,18 @@ Patrón 4
    
    c) Crear un método para la resolución de cada uno de los patrones.(1 Punto)
    
+
+
+
+Resultado
+-
+
+-  Se Adjuntan Algunas imagenes del resultado poropuesto
+
+  - imagen 1 
+
+![img.png](img.png)
+
+-  imagen 2
+
+![img_1.png](img_1.png)

@@ -39,7 +39,7 @@ public class PatronesAnidados {
     static int ingreso(){
         Scanner sc=new Scanner(System.in);
         int numero;
-        System.out.print("Ingrese numero : ");
+        System.out.print("Ingrese numero par agenerar el patron : ");
         numero = sc.nextInt();
         return numero;
     }
